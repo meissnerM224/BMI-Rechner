@@ -29,6 +29,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^0.13.5
+  
   # input_slider: ^0.3.0
 
 
